@@ -1,0 +1,28 @@
+{
+  "name": "redis-caching-in-nodejs-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HimanshuP90/Redis-Caching-in-Node.js-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HimanshuP90/Redis-Caching-in-Node.js-/issues"
+  },
+  "homepage": "https://github.com/HimanshuP90/Redis-Caching-in-Node.js-#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.0",
+    "redis": "^2.8.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.2"
+  }
+}
